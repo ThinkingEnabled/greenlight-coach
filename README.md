@@ -4,6 +4,10 @@ A free coach from [Thinking Enabled](https://thinkingenabled.com) that helps a l
 
 The coach prepares; it doesn't decide. More about it, with a sample brief: <https://thinkingenabled.com/greenlight-coach>
 
+## Use it in any AI chat
+
+Copy [PROMPT.md](PROMPT.md) (also on <https://thinkingenabled.com/greenlight-coach#prompt>) and paste it as the first message of a new chat in ChatGPT, Claude, Microsoft Copilot, Gemini or another assistant. A pasted prompt lasts for that one chat. If the coach drifts, start a new chat and paste it again.
+
 ## Use it in Claude (claude.ai or the desktop app)
 
 1. Download [Greenlight_Coach_for_Claude.zip](https://thinkingenabled.com/downloads/Greenlight_Coach_for_Claude.zip). Keep it zipped.
@@ -22,7 +26,7 @@ Works on every Claude plan. On Team or Enterprise, an administrator may need to 
 
 ## Use it in ChatGPT
 
-The ChatGPT listing is on its way. The link will appear at <https://thinkingenabled.com/greenlight-coach>.
+Until the ChatGPT listing is available, use the prompt above. The listing link will appear at <https://thinkingenabled.com/greenlight-coach>.
 
 ## Privacy and terms
 
@@ -34,7 +38,8 @@ The coach runs inside the AI app you use. It has no external service or account 
 
 ## Contents
 
-- `skills/greenlight-coach/SKILL.md`: the coach's instructions
+- `PROMPT.md`: the copyable prompt for any AI chat
+- `skills/greenlight-coach/SKILL.md`: the coach's instructions as a skill
 - `.claude-plugin/`: plugin and marketplace files for Claude Code
 
 © 2026 Thinking Enabled. All rights reserved. You may use the coach as described above.
