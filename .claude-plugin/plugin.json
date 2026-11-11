@@ -1,0 +1,9 @@
+{
+  "name": "greenlight-coach",
+  "version": "0.2.0",
+  "description": "Turn a broad AI idea into one real workflow and a one-page Assessment Prep Brief. A free coach from Thinking Enabled.",
+  "author": { "name": "Thinking Enabled", "url": "https://thinkingenabled.com" },
+  "homepage": "https://thinkingenabled.com/greenlight-coach",
+  "repository": "https://github.com/ThinkingEnabled/greenlight-coach",
+  "keywords": ["ai-adoption", "workflow", "small-business", "assessment"]
+}

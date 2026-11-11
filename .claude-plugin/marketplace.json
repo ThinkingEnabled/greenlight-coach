@@ -1,0 +1,17 @@
+{
+  "name": "thinking-enabled",
+  "owner": {
+    "name": "Thinking Enabled",
+    "url": "https://thinkingenabled.com"
+  },
+  "metadata": {
+    "description": "Free AI-adoption tools from Thinking Enabled."
+  },
+  "plugins": [
+    {
+      "name": "greenlight-coach",
+      "source": "./",
+      "description": "Turn a broad AI idea into one real workflow and a one-page Assessment Prep Brief."
+    }
+  ]
+}
